@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "brand_name": "Toyota",
+        "brand_img": "https://i.ibb.co/VD6CYYY/toyota.png"
+    },
+    {
+        "id": 2,
+        "brand_name": "Ford",
+        "brand_img": "https://i.ibb.co/4pXhhWy/kisspng-ford-motor-company-2018-ford-f-150-car-ford-fiesta-make-5b3c9c85086c63-274303661530698885034.png"
+    },
+    {
+        "id": 3,
+        "brand_name": "BMW",
+        "brand_img": "https://i.ibb.co/3zz6Qnf/kisspng-bmw-m-roadster-car-mercedes-benz-bmw-i-5b161ed48d14e4-9922037615281763405779.png"
+    },
+    {
+        "id": 4,
+        "brand_name": "Mercedes",
+        "brand_img": "https://i.ibb.co/fkptGCp/5a249d30823175-0422991415123489765333.png"
+    },
+    {
+        "id": 5,
+        "brand_name": "Tesla",
+        "brand_img": "https://i.ibb.co/gjYr6QG/tesla2.png"
+    },
+    {
+        "id": 6,
+        "brand_name": "Honda",
+        "brand_img": "https://i.ibb.co/tZqtR1m/honda.png"
+    }
+]
